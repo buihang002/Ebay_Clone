@@ -26,7 +26,8 @@
 
 
 ### 🔹 Product Detail Page
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b736aab8-8cf0-4721-846e-8d045a1796b1)
+
 
 
 ## 🛠️ **Technologies Used**
